@@ -1,7 +1,7 @@
 {
   "uuid": "vinyl-player@AttilaHuns288452",
   "name": "Vinyl Record Player",
-  "description": "A vinyl record player desklet that spins a record on your desktop. Play, pause, and adjust speed.",
+  "description": "A vinyl record player desklet that spins a record on your desktop. Play, pause, adjust speed, and customize font + player colors.",
   "version": "1.0.0",
   "author": "AttilaHuns288452",
   "license": "GPL-2.0",
