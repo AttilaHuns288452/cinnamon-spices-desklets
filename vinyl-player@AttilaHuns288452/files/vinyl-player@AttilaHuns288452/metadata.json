@@ -1,0 +1,10 @@
+{
+  "uuid": "vinyl-player@AttilaHuns288452",
+  "name": "Vinyl Record Player",
+  "version": "1.0.0",
+  "description": "A vinyl record player desklet",
+  "maxInstances": 1,
+  "cinnamonVersion": "5.0",
+  "appletVersion": "1.0",
+  "author": "AttilaHuns288452"
+}
