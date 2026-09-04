@@ -1,7 +1,0 @@
-{
-    "uuid": { "type": "entry", "default": "vinyl-player@AttilaHuns288452", "description": "Desklet UUID" },
-    "fontColor": { "type": "colorchooser", "default": "#b4afa5", "description": "Font color for the title text" },
-    "playerColor": { "type": "colorchooser", "default": "#5a4a3a", "description": "Base color for the turntable platter" },
-    "recordColor": { "type": "colorchooser", "default": "#111111", "description": "Color for the vinyl record" },
-    "labelColor": { "type": "colorchooser", "default": "#c4b089", "description": "Color for the record center label" }
-}
